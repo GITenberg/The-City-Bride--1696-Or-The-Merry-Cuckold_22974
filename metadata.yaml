@@ -1,0 +1,35 @@
+_repo: The-City-Bride--1696-Or-The-Merry-Cuckold_22974
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Dearing, Vinton A. (Vinton Adams)
+    alias: Dearing, Vinton Adams
+    birthdate: 1920
+    deathdate: 2005
+    gutenberg_agent_id: '25616'
+    url: http://www.gutenberg.org/2009/agents/25616
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harris, Joseph
+    gutenberg_agent_id: '25623'
+    url: http://www.gutenberg.org/2009/agents/25623
+description: ''
+gutenberg_issued: '2007-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22974'
+  lccn: a 53001354
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama'
+- !lcc 'PR'
+title: 'The City Bride (1696)
+
+  Or The Merry Cuckold'
+url: http://www.gutenberg.org/ebooks/22974
