@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '25623'
     url: http://www.gutenberg.org/2009/agents/25623
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22974#The-City-Bride--1696-Or-The-Merry-Cuckold
 gutenberg_issued: '2007-10-12'
 gutenberg_type: Text
 identifiers:
